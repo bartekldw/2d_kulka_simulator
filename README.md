@@ -13,7 +13,7 @@
 
 ### Symulacja kulki:
 ![Symulacja](images/2dball3.png)
----
+
 ## O CO TU CHODZI
 
 To jest *symulator*. Ale nie taki, co ma grafikę, fizykę, RTXy i silnik dźwięku.  
