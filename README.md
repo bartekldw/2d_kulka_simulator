@@ -1,3 +1,13 @@
+## 🖼️ Screeny (bo jak nie pokażesz, to nie uwierzą)
+
+### Start menu:
+![Start menu](images/2dball1.png)
+
+### Parametry przed startem:
+![Parametry](images/2dball2.png)
+
+### Symulacja kulki:
+![Symulacja](images/2dball3.png)
 # Kulka 2D™  
 **czyli kulka spada, odbija się, i tyle**  
 
