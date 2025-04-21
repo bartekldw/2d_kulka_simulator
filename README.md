@@ -1,5 +1,10 @@
-## 🖼️ Screeny (bo jak nie pokażesz, to nie uwierzą)
+# Kulka 2D™  
+**czyli kulka spada, odbija się, i tyle**  
 
+> _"Napisane w C++, bo życie nie może być za proste."_  
+> – ktoś, kto nigdy nie używał `std::vector` i uznał `new int*[n]` za świetny pomysł
+
+---
 ### Start menu:
 ![Start menu](images/2dball1.png)
 
@@ -8,14 +13,7 @@
 
 ### Symulacja kulki:
 ![Symulacja](images/2dball3.png)
-# Kulka 2D™  
-**czyli kulka spada, odbija się, i tyle**  
-
-> _"Napisane w C++, bo życie nie może być za proste."_  
-> – ktoś, kto nigdy nie używał `std::vector` i uznał `new int*[n]` za świetny pomysł
-
 ---
-
 ## O CO TU CHODZI
 
 To jest *symulator*. Ale nie taki, co ma grafikę, fizykę, RTXy i silnik dźwięku.  
