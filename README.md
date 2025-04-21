@@ -1,6 +1,34 @@
-#Kulka simulator :O
-Czy zastanawialiście się kiedykolwiek jak to jest mieć dziewczyne?
-Ja też nie.
-Dlatego powstał 2D Ball: czyli kulka spada, odbija się, i tyle
+# Kulka 2D™  
+**czyli kulka spada, odbija się, i tyle**  
 
-    "Napisane w C++, bo życie nie może być za proste."
+> _"Napisane w C++, bo życie nie może być za proste."_  
+> – ktoś, kto nigdy nie używał `std::vector` i uznał `new int*[n]` za świetny pomysł
+
+---
+
+## O CO TU CHODZI
+
+To jest *symulator*. Ale nie taki, co ma grafikę, fizykę, RTXy i silnik dźwięku.  
+To jest **terminalowy pogromca kart graficznych**.  
+Tak szybki, że sprawia, iż twoja kula **napierdziela przez planszę w 0.049 sekundy** jak Goku na Red Bullu.
+
+---
+
+## UWAGA:
+- Działa na Linuksie. I tylko na Linuksie. Bo Windows by się zagotował.
+
+---
+
+## DLACZEGO TO POWSTAŁO?
+
+> "Bo chciałem zasymulować kulkę odbijającą się od ścian w terminalu."  
+> "Bo czemu nie."  
+> "Bo miałem chwilowy zanik instynktu samozachowawczego i postanowiłem użyć C++."
+
+---
+
+## UWAGA 2.0:
+- Kulka potrafi osiągnąć v = 44.24m/s. Czyli więcej niż ty na fjacie.
+- Brak dźwięku, ale możesz krzyczeć sam.
+
+---
