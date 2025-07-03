@@ -19,9 +19,9 @@
 
 ## O CO TU CHODZI
 
-To jest *symulator*. Ale nie taki, co ma grafikę, fizykę, RTXy i silnik dźwięku.  
-To jest **terminalowy pogromca kart graficznych**.  
-Tak szybki, że sprawia, iż twoja kula **napierdziela przez planszę w 0.049 sekundy** jak Goku na Red Bullu.
+To jest symulator. Ale nie taki, co ma grafikę, fizykę, RTXy i silnik dźwięku.  
+To jest terminalowy pogromca kart graficznych.  
+Tak szybki, że sprawia, iż twoja kula napierdziela przez planszę w 0.049 sekundy.
 
 ---
 
@@ -39,7 +39,6 @@ Tak szybki, że sprawia, iż twoja kula **napierdziela przez planszę w 0.049 se
 ---
 
 ## UWAGA 2.0:
-- Kulka potrafi osiągnąć v = 44.24m/s. Czyli więcej niż ty na fjacie.
 - Brak dźwięku, ale możesz krzyczeć sam.
 
 ---
