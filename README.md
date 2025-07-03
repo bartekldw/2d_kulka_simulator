@@ -4,8 +4,7 @@
     <img src="https://img.shields.io/badge/☕%20Pomóż%20mi%20rozwijać%20pasje-yellow?style=for-the-badge" alt="Buy Me A Coffee">
   </a>
 </p>
-**czyli kulka spada, odbija się, i tyle**  
-
+Kullka spada, odbija się, i tyle 
 > _"Napisane w C++, bo życie nie może być za proste."_  
 > – ktoś, kto nigdy nie używał `std::vector` i uznał `new int*[n]` za świetny pomysł
 ---
