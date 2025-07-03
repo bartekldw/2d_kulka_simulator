@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> _"Napisane w C++, bo życie nie może być za proste."_  
+> _"Kulka spada, odbija sie i tyle. Napisane w C++, bo życie nie może być za proste."_  
 > – ktoś, kto nigdy nie używał `std::vector` i uznał `new int*[n]` za świetny pomysł
 ---
 ### Start menu:
