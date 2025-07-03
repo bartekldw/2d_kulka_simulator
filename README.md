@@ -3,7 +3,11 @@
 
 > _"Napisane w C++, bo życie nie może być za proste."_  
 > – ktoś, kto nigdy nie używał `std::vector` i uznał `new int*[n]` za świetny pomysł
-
+<p align="center">
+  <a href="https://buymeacoffee.com/brtekld_prog" target="_blank">
+    <img src="https://img.shields.io/badge/☕%20Pomóż%20mi%20rozwijać%20pasje-yellow?style=for-the-badge" alt="Buy Me A Coffee">
+  </a>
+</p>
 ---
 ### Start menu:
 ![Start menu](images/2dball1.png)
